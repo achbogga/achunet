@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+Left/
+.npy
+.h5
+.log
+.json
+.avi
